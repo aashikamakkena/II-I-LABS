@@ -1,1 +1,1 @@
-Write a program that implements Stack and its operations using Linked List.
+Write a program that implements Queue and its operations using Arrays.
