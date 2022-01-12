@@ -1,5 +1,5 @@
 #
-**_Experiment-2_**
+**_EXPERIMENT-2_**
 ##
 **_Aim of the Experiment:_**
 Given that an EMPLOYEE class contains following members: data members: Employee
