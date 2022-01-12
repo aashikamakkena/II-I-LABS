@@ -1,5 +1,5 @@
 #
-**_Experiment-1_**
+**_EXPERIMENT-1_**
 ##
 **_Aim of the Experiment:_**
 Write a C++ Program to display Names, Roll No., and grades of 3 students who have appeared
