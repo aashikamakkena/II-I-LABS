@@ -7,7 +7,7 @@ in the examination. Declare the class of name, Roll No. and grade. Create an arr
 objects. Read and display the contents of the array.
 
 ##
-**_Step-by-step process of Experiment_**
+**_Step-by-step process of Experiment:_**
 1.Include the required header files (iostream.h and conio.h).<br/>
 2.Create a class (Student) with the following class members as public members.<br/>
   *student_name, roll_number and grade as data members.<br/>
