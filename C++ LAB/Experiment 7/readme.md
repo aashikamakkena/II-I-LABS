@@ -16,4 +16,4 @@ Write a C++ program using this pointer.
 6.Create a main() method. <br/>
 7.Creating two objects of Employee e1 and e2 along with parameters.<br/>
 8.Call the member function display().<br/>
-9.Return 0 to exit form the program execution.<br/>
+9.Return 0 to exit from the program execution.<br/>
